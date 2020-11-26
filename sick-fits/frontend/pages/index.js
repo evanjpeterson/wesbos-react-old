@@ -1,3 +1,3 @@
-const Home = () => <p>Home!</p>;
+import Items from "./items";
 
-export default Home;
+export default Items;
